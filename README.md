@@ -10,6 +10,8 @@ This Python application is a Bookstore Management System that allows users to ma
 
 ## Installation
 To install this project locally, follow these steps:
+1. Clone the repository:
+   git clone https://github.com/w0ngky/ebookstore.git
 
 1. **Download and Install Python**: 
    Make sure you have Python installed on your machine. If not, download and install it from [python.org](https://www.python.org/downloads/).
@@ -28,6 +30,8 @@ To install this project locally, follow these steps:
 
 ## Usage
 To run the application, follow these steps:
+To run the application, use the following command:
+python ebookstore.py
 
 1. Open your command prompt or terminal.
 
